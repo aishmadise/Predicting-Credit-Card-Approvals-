@@ -8,4 +8,5 @@ Note: The dataset used in this project is the Credit Card Approval dataset from 
 What did I apply to this project?
 
 Data manipulation using Pandas & NumPy
+
 Preprocessing and  logistic regression modeling using Scikit-Learn
